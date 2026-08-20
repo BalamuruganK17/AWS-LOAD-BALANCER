@@ -29,8 +29,6 @@ Select Web Server 1 (the original instance used to create the AMI) and terminate
 No CLI commands are used in this experiment, as it is performed entirely through the AWS Management Console (GUI-based setup) using EC2, Elastic Load Balancing, Auto Scaling, and CloudWatch services.
 
 ## OUTPUT
-### REG NUMBER: 212224040217
-### NAME: NETHRAA N
 
 <img width="1919" height="866" alt="Screenshot 2026-08-18 093033" src="https://github.com/user-attachments/assets/aa82b865-02ce-480d-b650-7bb377089286" />
 <img width="1918" height="889" alt="Screenshot 2026-08-18 093101" src="https://github.com/user-attachments/assets/517b9b0d-c13a-4d94-b77f-9b07f3113e52" />
